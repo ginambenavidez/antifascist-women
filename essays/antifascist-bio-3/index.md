@@ -3,6 +3,7 @@ title: "Anti-Fascist Biography 3"
 layout: scrollstory
 header-image: images/figure_1.jpg
 thumbnail: images/figure_1.jpg
+position: 3
 summary: A third biography of an anti-fascist woman in the early 20th century.
 ---
 
