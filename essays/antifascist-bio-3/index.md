@@ -1,9 +1,9 @@
 ---
-title: "Tamales: Ritual, Labor, and Tradition"
+title: "Anti-Fascist Biography 3"
 layout: scrollstory
 header-image: images/figure_1.jpg
 thumbnail: images/figure_1.jpg
-summary: The history of tamales—from Aztec battlefield food to family tradition—reveals how a humble wrapped meal carries centuries of meaning.
+summary: A third biography of an anti-fascist woman in the early 20th century.
 ---
 
 # Tamales: Ritual, Labor, and Tradition

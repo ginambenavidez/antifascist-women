@@ -1,9 +1,9 @@
 ---
-title: "Nachos: The Invented Tradition"
+title: "Anti-Fascist Biography 2"
 layout: scrollstory
 header-image: images/figure_1.jpg
 thumbnail: images/figure_1.jpg
-summary: From border cafe to game-day essential—the brief, contested history of America's most democratic snack.
+summary: Another biography of an anti-fascist woman in the early 20th century.
 ---
 
 # Nachos: The Invented Tradition

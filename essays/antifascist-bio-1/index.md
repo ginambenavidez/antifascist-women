@@ -1,9 +1,9 @@
 ---
-title: "Chiles: The Heat That Built the Southwest"
+title: "Anti-Fascist Biography 1"
 layout: scrollstory
 header-image: images/figure_1.jpg
 thumbnail: images/figure_1.jpg
-summary: How a Mesoamerican crop became the defining flavor of the American Southwest—and why one plant changed everything.
+summary: A biography of an anti-fascist woman in the early 20th century.
 ---
 
 # Chiles: The Heat That Built the Southwest
