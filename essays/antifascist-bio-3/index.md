@@ -6,7 +6,7 @@ thumbnail: images/figure_1.jpg
 summary: A third biography of an anti-fascist woman in the early 20th century.
 ---
 
-# Tamales: Ritual, Labor, and Tradition
+# Biography 3
 
 If you ask people when they eat tamales, you'll likely hear the same word repeated: *traditions*. Christmas, family gatherings, early morning with coffee, celebrations—tamales are rarely eaten casually. They're woven into the calendar and the family story in a way that few other foods are.
 

@@ -6,7 +6,7 @@ thumbnail: images/figure_1.jpg
 summary: Another biography of an anti-fascist woman in the early 20th century.
 ---
 
-# Nachos: The Invented Tradition
+# Biography 2
 
 Every food has a story. Most have a thousand years of evolution. Nachos? Born in 1943 at a single moment of improvisation in a small café near the Texas-Mexico border. What makes this story fascinating is not how old nachos are, but how *young* they are—and yet how deeply they've embedded themselves in American culture.
 
