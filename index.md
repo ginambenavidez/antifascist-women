@@ -10,7 +10,11 @@ header-position: 35% center
 
 # Women, Europe, and Antifascism in the Early 20th Century
 
-This is your class project site, built with the [Xanthan framework](https://xanthan-web.github.io/xanthan/). Everything you see here is a placeholder — the title above, the essay topics, the images. 
+This page explores the biographies and histories of prominent European and American women antifascist activists from the early 20th century. 
+
+This project will introduce readers to historical antifascism (1914-1945) by emphasizing the role of European and American women’s actions, writings, organizing, and participation within the transnational antifascism movement of the interwar period.
+
+## Information about how to use the templates and examples
 
 To get a sense of what a finished project can look like, this template includes three sample essays on Southwest food history, generated with AI as stand-ins for real student work. Browse them to see how essays can use images, pull quotes, and scroll-driven backgrounds. Then start replacing them with your own material.
 
