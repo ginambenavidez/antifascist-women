@@ -2,7 +2,7 @@
 title: "Women, Europe, and Antifascism in the Early 20th Century"
 layout: base
 date: 2025-10-21
-header-image: "/assets/images/sw-table.jpg"
+header-image: "/assets/images/antifascist-march-mural-hh-2.jpeg"
 header-title: Women, Europe, and Antifascism in the Early 20th Century
 header-subtitle: Biographies
 header-position: 35% center
@@ -10,7 +10,7 @@ header-position: 35% center
 
 # Women, Europe, and Antifascism in the Early 20th Century
 
-This page explores the biographies and histories of prominent European and American women antifascist activists from the early 20th century. 
+This website explores the biographies and histories of prominent European and American women antifascist activists from the early 20th century. 
 
 This project will introduce readers to historical antifascism (1914-1945) by emphasizing the role of European and American women’s actions, writings, organizing, and participation within the transnational antifascism movement of the interwar period.
 
