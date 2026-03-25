@@ -2,6 +2,8 @@
   url: "/about"
 - title: "Bios"
   url: "/essays"
+- title: "Map"
+  url: "/map"
 - title: "Instructions"
   url: "/instructions"
 - title: "Docs"
