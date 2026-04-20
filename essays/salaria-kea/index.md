@@ -1,10 +1,10 @@
 ---
 title: "Salaria Kea"
 layout: scrollstory
-header-image: images/figure_1.jpg
-thumbnail: images/figure_1.jpg
+header-image: images/salaria_kea.jpg
+thumbnail: images/salaria_kea.jpg
 position: 1
-summary: A biography of an anti-fascist woman in the early 20th century.
+summary: Salaria Kea was the only Black American female to volunteer in the Spanish Civil War.
 ---
 
 # Biography 1
