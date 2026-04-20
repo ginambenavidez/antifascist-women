@@ -54,7 +54,7 @@ When New Mexico became a U.S. state in 1912, one of its first instincts was to a
 {% endcapture %}
 
 {% include images/figure-wrap.html
-  image-path="images/carousel_1.jpg"
+  image-path="images/american_ambulance.jpg"
   image-position="right"
   image-width="45%"
   caption="The iconic red chile ristras of Northern New Mexico—strands of dried chiles hung to cure and age."
