@@ -17,11 +17,9 @@ Famous for her role as the only African American female nurse to volunteer for t
 
 ## Early Life
 
-{% capture chile_origins_text %}
 Born in Georgia in 1911 as Sarah L. Kee, Kea’s early years are not easily traced.  Based on most assumptions, her father died when she was very young, and her mother died not long after. By 1930 she was living in Akron, Ohio, with her brother-in-law as the head of the household.  She describes her childhood in Ohio as a generally happy one, and graduated from West High School. 
 
 She appears to have been a bright student, a popular athlete, and a likeable classmate. Akron, Ohio in the 1920s was a typical product of Jim Crow America, with segregated schools, restaurants, and facilities.  
-{% endcapture %}
 
 {% include images/figure-wrap.html
   image-path="images/american-ambulance.jpg"
@@ -76,11 +74,6 @@ Her antifascism did not disappear, but instead evolved to incorporate more issue
 Almost immediately after Spain, Kea embarked on a multi-city, two-month ambulance tour with Thyra Edwards, one of the only other Black American women to travel to Spain during the war.
 
  Edwards was a social worker, who had gone to Spain in order to report on the children’s camps near Barcelona and further into the country. She understood as much as Kea did how badly the Republic continued to need supplies.
-
-The carousel below shows the diversity of modern chile culture:
-
-{% assign images_list = "images/carousel_1.jpg,images/carousel_2.jpg,images/carousel_3.jpg" | split: ',' %}
-{% include images/carousel.html id="chile-types" images=images_list %}
 
 The ambulance tour, organized by the AMB, was well documented and reported upon by Edwards throughout their time. The tour seems to have forged genuine connections among the Black community who were invested in supporting the fight against fascism. Edwards writes about a young group of college students who were “extremely proud” that they had raised enough money to send an ambulance from Howard University, now an HBCU institution. 
 
