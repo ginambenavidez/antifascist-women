@@ -27,7 +27,7 @@ She appears to have been a bright student, a popular athlete, and a likeable cla
   image-path="images/american-ambulance.jpg"
   image-position="left"
   image-width="48%"
-  caption="Archaeological evidence suggests chile domestication began around 7500 BCE in Mexico—making it one of the oldest cultivated crops in the Americas."
+  caption="One of the American hospitals bound for Spain during the Spanish Civil War."
   text=chile_origins_text
 %}
 
@@ -64,16 +64,16 @@ Although Kea would serve at least three other hospitals during her time in Spain
 
 ## After Spain
 
-{% include typography/pullquote.html text="\"The heat of a chile isn't just a flavor sensation. It's a physical experience that changes how we perceive food, how we gather, how we bond. Sharing hot food creates a kind of intimacy that bland food never could.\"" %}
+{% include typography/pullquote.html text="\"For the volunteer soldiers and nurses like Kea, they believed that going to Spain was simply “the right thing” to do, in hopes for a newer and better world. \"" %}
 
-What makes chiles remarkable isn't just their flavor, but their heat—the capsaicin that creates that burning sensation. This isn't taste in the traditional sense; it's pain. We've evolved to eat chiles despite the pain, even to crave it.
+After Kea returned from Spain she continued to protest fascism and oppression by raising money and awareness for Republican Spain, serving in the Second World War, and participating in the desegregation of New York City hospitals, as the color line began to fray during wartime needs and the emerging Civil Rights movement. 
 
-There's psychology in this. The shared experience of eating something hot—the sweating, the laughing, the communal endurance—creates bonds. Chile-eating contests, chile-eating challenges, families bonding over who can handle the hottest salsa: this is social behavior built on a plant that literally tests your limits.
+Her antifascism did not disappear, but instead evolved to incorporate more issues that Black nurses faced in the mid-twentieth century.
 
 
 ## Ambulance Tour
 
-Almost immediately after she returned, Kea embarked on a multi-city, two-month ambulance tour with Thyra Edwards, one of the only other Black American women to travel to Spain during the war.
+Almost immediately after Spain, Kea embarked on a multi-city, two-month ambulance tour with Thyra Edwards, one of the only other Black American women to travel to Spain during the war.
 
  Edwards was a social worker, who had gone to Spain in order to report on the children’s camps near Barcelona and further into the country. She understood as much as Kea did how badly the Republic continued to need supplies.
 
