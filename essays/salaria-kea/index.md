@@ -9,16 +9,18 @@ summary: Salaria Kea was the only Black American female to volunteer in the Span
 
 # Salaria Kea in the Spanish Civil War
 
-Salaria Kea was born in Georgia, grew up in Akron, Ohio, and eventually moved to New York City for nursing school. 
+Famous for her role as the only African American female nurse to volunteer for the Spanish Civil War, Salaria Kea used nursing as a vehicle to join the antifascist efforts during the Interwar period.
 
-The story of how this plant became the defining ingredient of Southwestern cuisine is the story of climate, conquest, adaptation, and an entire region's relationship to heat—both literal and cultural.
+ She did not stop once she returned from Spain, but instead continued raising awareness for the cause, served in the Army Nurse Corps, and took part in the desegregation efforts in New York City hospitals. 
+ 
+ Like most Black antifascist women, Kea was part of a coalition of efforts to fight against racist oppression both in the United States and globally.
 
-## Wild Origins and Sacred Uses
+## Early Life
 
 {% capture chile_origins_text %}
-Archaeological evidence suggests that wild chiles were used by Mesoamerican peoples for thousands of years before domestication. Unlike staple crops like maize or beans (which were also domesticated), chiles were initially valued for medicinal and ceremonial purposes, not just food.
+Born in Georgia in 1911 as Sarah L. Kee, Kea’s early years are not easily traced.  Based on most assumptions, her father died when she was very young, and her mother died not long after. By 1930 she was living in Akron, Ohio, with her brother-in-law as the head of the household.  She describes her childhood in Ohio as a generally happy one, and graduated from West High School. 
 
-The Aztecs called them *chilli*—a word that would travel the world. They appeared in codices as sacred plants, used in rituals and as offerings. But they were also used in cooking, in medicine, as currency. Chiles were woven into the economic and spiritual fabric of pre-Columbian civilizations.
+She appears to have been a bright student, a popular athlete, and a likeable classmate. Akron, Ohio in the 1920s was a typical product of Jim Crow America, with segregated schools, restaurants, and facilities.  
 {% endcapture %}
 
 {% include images/figure-wrap.html
@@ -29,40 +31,38 @@ The Aztecs called them *chilli*—a word that would travel the world. They appea
   text=chile_origins_text
 %}
 
-{% include typography/pullquote.html text="\"When Spanish conquistadors arrived and encountered chiles for the first time, they didn't know what they'd found: the key ingredient that would reshape global cuisine. They just tasted heat and assumed they were finding something like black pepper.\"" %}
+{% include typography/pullquote.html text="\"Kea recalls being allowed to sit in the very back, upper row of the “white” movie theater, and swimming at the “black” public pool just outside of town. “That’s just the way it was,” she remembers.\"" %}
 
-When Spanish conquistadors arrived in the 16th century, they encountered chiles and assumed they were a kind of pepper—similar to the peppercorns that had driven medieval trade routes and wars. This mistake—this linguistic confusion—would matter enormously.
-
-
-## The Global Circulation
-
-The Spanish brought chiles back to Europe, from Europe to Asia, and eventually chiles spread around the world. Within two centuries of Columbus, chiles were growing in India, Hungary, Korea, Thailand—places that now consider them indigenous, essential, defining.
-
-This is one of history's greatest ironies: the cuisines we think of as authentically Asian, Hungarian, or Indian all depend on a plant from the Americas. Today, more chiles are consumed in Asia than anywhere else on Earth, yet hardly anyone thinks of chiles as "Asian."
-
-The Southwest, however, kept them close. When Spanish settlers began colonizing New Mexico in the late 1500s, they brought cultivated chile varieties with them. These adapted to the high desert climate, the intense sun, the seasonal rains. Over centuries, New Mexico developed its own distinctive chile varieties.
+After finishing high school, Kea applied to local nursing schools in Ohio but was rejected because of her race, so she applied to nursing school in New York City instead. 
 
 
-## The New Mexican Obsession
+## The Spanish Civil War
+
+Kea’s time in Spain is well-known in Spanish Civil War lore. Popularized by newspaper articles, documentaries, and propaganda materials to support the war effort in Spain, Kea’s role as the only female African American medical volunteer in Spain brought her notoriety and acclaim. 
+
+Kea left for Spain on March 26, 1937 with the third American Medical Bureau Unit with Dr. Donald Pitt and about ten other nurses on the ship Ile de France. The unit arrived in France, where the volunteers were transported across the Spanish border by train, then sent to Albacete, the International Brigade Headquarters.
+
+
+## Villa Paz
 
 {% capture chile_nm_text %}
-By the 18th and 19th centuries, chiles were so central to New Mexican cuisine that they weren't just a spice—they were an identity marker. You could tell where someone was from by how they prepared chiles, what variety they grew, when they harvested.
+Although Kea would serve at least three other hospitals during her time in Spain, she spent the most time in service at Villa Paz, a convalescent hospital. Located deep in the Spanish countryside up a hill, it had once been a former hunting lodge for Alfonso X.
 
-Red versus green became almost a political and cultural statement. Families had chile-growing traditions stretching back generations. Towns developed reputations for particular varieties. The annual chile harvest was (and still is) treated with ceremonial importance.
-
-When New Mexico became a U.S. state in 1912, one of its first instincts was to assert its uniqueness through food. Chile festivals emerged. Chile-growing competitions began. The chile became a symbol of regional pride—fiercer and more protective than almost any other ingredient anywhere.
+ The villa was unoccupied, and the first American unit had previously arrived and converted it into a hospital. During the war the Republicans used many vacant luxurious buildings such as Villa Paz that had been abandoned by the Spanish elites in Republican territory.
+ 
+ Villa Paz was truly an exceptional hospital site – it had running water and beautiful views of the surrounding countryside. Kea’s time at Villa Paz, most popularly described in “A Negro Nurse in Republican Spain,” has remained crystallized and memorialized as a place where Kea worked “free of racism.” The pamphlet writes about how Kea likened her experience as a Black woman in the United States to the Spanish peasants living in the countryside while the elite lived in luxury. It certainly was a stark contrast that Kea must have observed during her time at Villa Paz
 {% endcapture %}
 
 {% include images/figure-wrap.html
-  image-path="images/american_ambulance.jpg"
+  image-path="images/a-negro-nurse.jpg"
   image-position="right"
   image-width="45%"
-  caption="The iconic red chile ristras of Northern New Mexico—strands of dried chiles hung to cure and age."
+  caption="A Negro Nurse in Republican Spain propaganda pamphlet."
   text=chile_nm_text
 %}
 
 
-## The Chemistry of Heat and Culture
+## After Spain
 
 {% include typography/pullquote.html text="\"The heat of a chile isn't just a flavor sensation. It's a physical experience that changes how we perceive food, how we gather, how we bond. Sharing hot food creates a kind of intimacy that bland food never could.\"" %}
 
@@ -71,36 +71,26 @@ What makes chiles remarkable isn't just their flavor, but their heat—the capsa
 There's psychology in this. The shared experience of eating something hot—the sweating, the laughing, the communal endurance—creates bonds. Chile-eating contests, chile-eating challenges, families bonding over who can handle the hottest salsa: this is social behavior built on a plant that literally tests your limits.
 
 
-## Modern Variations and Challenges
+## Ambulance Tour
 
-Today, New Mexican chiles face challenges. Climate change is shifting growing seasons. Industrial agriculture has made cheaper, flavorless chiles available everywhere, undercutting local farmers. Younger generations are moving away from rural areas where chiles have been grown for generations.
+Almost immediately after she returned, Kea embarked on a multi-city, two-month ambulance tour with Thyra Edwards, one of the only other Black American women to travel to Spain during the war.
 
-But there's also a renaissance. Heirloom chile varieties are being preserved and celebrated. New restaurants are treating chiles with the seriousness of a wine vintage—specific growing regions, specific varieties, specific preparation methods.
+ Edwards was a social worker, who had gone to Spain in order to report on the children’s camps near Barcelona and further into the country. She understood as much as Kea did how badly the Republic continued to need supplies.
 
 The carousel below shows the diversity of modern chile culture:
 
 {% assign images_list = "images/carousel_1.jpg,images/carousel_2.jpg,images/carousel_3.jpg" | split: ',' %}
 {% include images/carousel.html id="chile-types" images=images_list %}
 
-**The varieties tell a story:**
-- Pueblo chiles: small, early, adapted to high elevations
-- Spanish varieties: brought by colonists, adapted over centuries
-- Hybrid modern varieties: bred for consistency and market appeal
-- Heirloom preservation varieties: grown specifically to maintain genetic diversity
-
-Each represents a different moment in the chile's journey from wild plant to cultural icon.
+The ambulance tour, organized by the AMB, was well documented and reported upon by Edwards throughout their time. The tour seems to have forged genuine connections among the Black community who were invested in supporting the fight against fascism. Edwards writes about a young group of college students who were “extremely proud” that they had raised enough money to send an ambulance from Howard University, now an HBCU institution. 
 
 
-## The Future of Southwest Identity
+## The Legacy of Salaria Kea
 
-As the Southwest changes—becoming more urban, more diverse, more connected to global food systems—what happens to the chile? Will it remain a marker of regional identity, or become just another ingredient?
+Her work as a Black nurse who rose through the ranks in a highly hierarchical institution – the American medical profession – in Jim Crow America places Kea at the center of Black feminist antifascism during the Interwar period.
 
-The answer might be both. Chiles have always adapted. They adapted to every continent, every climate, every cuisine that adopted them. They adapted from wild plants to cultivated varieties to industrial agriculture to heirloom preservation. They've been spice, currency, medicine, ritual object, and comfort food.
-
-Maybe that adaptability is the real story. Not the origin in Mexico or the spread through the world or the obsession in New Mexico, but the fact that a plant can be shaped and reshaped by human culture while still remaining fundamentally itself.
-
-The heat remains. The flavor remains. The chile endures.
+ Through Kea's experience as a Black graduate nurse in the United States, her involvement in raising money and supplies to medically aid both Ethiopia and Spain, and her participation as the only Black American female International Brigades nurse during the Spanish Civil War, Kea was inextricably linked to the Black feminist antifascist movement domestically and internationally.
 
 ---
 
-**Further exploration:** Taste different chile varieties if you can—fresh, roasted, dried. Visit a chile festival if you're in the Southwest during harvest season. Ask family members about their chile traditions. The story of chiles is also the story of regional identity, of cultural pride, and of how food carries history in its flavor.
+**Sources:** A Negro Nurse in Republican Spain, New York: The Negro Committee to Aid Spain with the Medical Bureau and North American Committee to Aid Spanish Democracy, 1938. Tamiment Special Collections, New York University, Fredericka Martin Papers, ALBA 001, Various Boxes. 
