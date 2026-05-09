@@ -17,12 +17,11 @@ Now Marion Pritchard, was born Marion van Binsbergen in November 1920 in Amsterd
 
 
 {% include images/figure-wrap.html
-  image-path="images/marion_pritchardold.jpeg"
+  image-path="images/marionpritchardold.jpeg"
   image-position="left"
   image-width="48%"
   caption="Marion Pritchard"
 %}
-
 
 ## German Occupation of the Netherlands
 
