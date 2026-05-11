@@ -1,7 +1,7 @@
 ---
 title: "Krystyna Skarbek"
 layout: scrollstory
-headers: images/skarbek-collage.jpg
+header-image: images/skarbek-collage.jpg
 thumbnail: images/Krystyna flower.jpg
 position: 2
 summary: An overview of Krystyna Skarbek - Christine Granville
